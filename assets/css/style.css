@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background: #ddd;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+.f-header {
+    font-family: 'Pattaya', sans-serif;
+}
+
+.border-klaikrung-dark {
+    border: 1px solid #2a4653;
+}
+
+.border-klaikrung-light {
+    border: 1px solid #0a837f;
+}
+
+.bg-klaikrung-dark {
+    background: #2a4653;
+}
+
+.bg-klaikrung-light {
+    background: #0a837f;
+}
